@@ -181,5 +181,5 @@ module_init(demo_init);
 module_exit(demo_exit);
 
 MODULE_DESCRIPTION("Assignment 1");
-MODULE_AUTHOR("Shyam krishnan KV");
+MODULE_AUTHOR("Aakrati Jain");
 MODULE_LICENSE("GPL");
